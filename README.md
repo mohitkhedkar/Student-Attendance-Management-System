@@ -1,6 +1,5 @@
-# Student Database
-
-
+# Student Management System
+    
 ## Contributors:
 
 1. [Megha Pal](https://github.com/meghapal02).
