@@ -8,8 +8,7 @@
 					<li class="sidebar-brand">
 
 							<a href="index.php">
-						 <!-- TODO: add image -->
-								<!-- <img src="images/mattendance_logo_small.png" alt="mAttendance"> -->
+						
 							</a>
 					</li>
 					<li>
@@ -37,7 +36,7 @@
 			<ul class="nav sidebar-nav">
 					<li class="sidebar-brand">
 							<a href="index.php">
-								<!-- <img src="images/mattendance_logo_small.png" alt="mAttendance"> -->
+								
 							</a>
 					</li>
 					<li>
