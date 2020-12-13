@@ -4,6 +4,10 @@
 
 This project aims to ease out the manual attendance taking process in Schools/Colleges.
 
+### ER Diagram:
+![](/Screenshots/ERD.png)
+
+
 ### LOGIN PAGE: 
 ![](/Screenshots/Login-page.JPG)
 
