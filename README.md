@@ -1,6 +1,11 @@
 # Student Attendance Management System
 
+![GitHub](https://img.shields.io/github/license/mohitkhedkar/Student-Attendance-Management-System?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/Student-Attendance-Management-System?style=flat)
+![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/Student-Attendance-Management-System?style=flat-square)
+
 ## website link:-  https://attendance-management-dbmsl.herokuapp.com/
+
 
 This project aims to ease out the manual attendance taking process in Schools/Colleges.
 
